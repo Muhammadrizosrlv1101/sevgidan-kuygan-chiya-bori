@@ -18,7 +18,7 @@ const MyAppointment = () => {
       date: '2024-03-15',
       time: '2:30 PM',
       status: 'Completed'
-    }
+    } 
   ]
 
   return (
